@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ShinyDuck21/shinyduck21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ I am ShinyDuck and I am a game dev and a discord bot dev. I like coding in java and c#. I also know python, javascript and html.
+
+---
+### Current Projects:
+- A website for myself and my discord bots
+- A discord bot named "Banos"
+---
+### How to reach me
