@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 ### Current Projects:
 - A website for myself and my discord bots
 - A discord bot named "Banos"
+---
