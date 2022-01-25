@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
  I am ShinyDuck and I am a game dev and a discord bot dev. I like coding in java and c#. I also know python, javascript and html.
 
+He/Him
+
 ---
 ### Current Projects:
 - A website for myself and my discord bots
