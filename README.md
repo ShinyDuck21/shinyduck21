@@ -20,11 +20,11 @@ He/Him
 
 ---
 ### Current Projects:
-- A website for myself and my discord bots
+- A website for myself and my discord bots and games
 ---
 ### Currently Learning.
 - More advanced HTML and CSS
 - Maybe C++
 - More advanced C# unity
-- REgular C#
+- Regular C#
 ---
