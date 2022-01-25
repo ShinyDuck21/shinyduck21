@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I am ShinyDuck and I am a game dev and a discord bot dev. I like coding in java and c#. I also know python, javascript and html.
+ I am ShinyDuck and I am a game dev and a discord bot dev. I like coding in java and c#. I also know python, javascript and html. I enjoy making games in the unity game engine
 
 He/Him
 
 ---
 ### Current Projects:
 - A website for myself and my discord bots
+---
+### Currently Learning.
+- More advanced HTML and CSS
+- Maybe C++
+- More advanced C# unity
+- REgular C#
 ---
