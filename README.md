@@ -21,6 +21,6 @@ He/Him
 ---
 ### Current Projects:
 - None at the Moment
----
+
 ### Pronouns: He/Him
 ---
