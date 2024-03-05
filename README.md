@@ -20,11 +20,7 @@ He/Him
 
 ---
 ### Current Projects:
-- A website for myself and my discord bots and games
+- None at the Moment
 ---
-### Currently Learning.
-- More advanced HTML and CSS
-- Maybe C++
-- More advanced C# unity
-- Regular C#
+### Pronouns: He/Him
 ---
