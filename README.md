@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I am ShinyDuck and I am a game dev and a discord bot dev. I like coding in java and c#. I also know python, javascript and html. I enjoy making games in the unity game engine
-
-He/Him
+Hi, My name is ShinyDuck and I am a high school student and a future student at Dakota State University. I would like to study Cyber Operations and I would like to become a SOC Analyist, Malware Researcher, or a Penetration Tester. I know a lot of programming languages including Python, Java, C, C++, and more. I am also intrested in guitar and audio production, Past Projects I have done includes making multiple discord bots and a few simple games in unity.
 
 ---
 ### Current Projects:
-- None at the Moment
+- Different Hack the Box CTFs
 
 ### Pronouns: He/Him
 ---
